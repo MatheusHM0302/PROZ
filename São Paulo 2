@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lugares Favoritos na Minha Cidade</title>
+    <link rel="stylesheet" href="estilo.css">
+</head>
+<body>
+    <header>
+        <h1>Lugares Favoritos na Minha Cidade</h1>
+        <nav>
+            <ul>
+                <li><a href="https://github.com/MatheusHM0302/PROZ/blob/main/Lugares%20Turisticos%20S%C3%A3o%20Paulo">Página Inicial</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="local1">
+            <h2>Parque da Cidade</h2>
+            <p>O Parque da Cidade é um oásis de tranquilidade no coração da cidade, perfeito para caminhadas e piqueniques.</p>
+            <img src="parque-cidade.jpg" alt="Parque da Cidade">
+        </section>
+
+        <section id="local2">
+            <h2>Café Aconchegante</h2>
+            <p>Esse café pitoresco é o meu refúgio favorito para desfrutar de um bom café e ler um livro.</p>
+            <img src="cafe-acolhedor.jpg" alt="Café Aconchegante">
+        </section>
+
+        <section id="local3">
+            <h2>Mirante da Colina</h2>
+            <p>O Mirante da Colina oferece vistas deslumbrantes da cidade e é um ótimo lugar para assistir ao pôr do sol.</p>
+            <img src="mirante-colina.jpg" alt="Mirante da Colina">
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2023 MeuCidadeFavorita.com</p>
+    </footer>
+</body>
+</html>
