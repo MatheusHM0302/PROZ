@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Parque Ibirapuera - São Paulo</title>
+    <link rel="stylesheet" href="estilo.css">
+</head>
+<body>
+    <header>
+        <h1>Parque Ibirapuera - São Paulo</h1>
+        <nav>
+            <ul>
+                <li><a href="#sobre">Sobre</a></li>
+                <li><a href="#galeria">Galeria de Fotos</a></li>
+                <li><a href="#como-chegar">Como Chegar</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="sobre">
+            <h2>Sobre o Parque Ibirapuera</h2>
+            <p>O Parque Ibirapuera é um dos parques urbanos mais famosos de São Paulo. Com uma grande área verde, trilhas e lagos, é um local ideal para passeios e atividades ao ar livre. O parque também abriga várias atrações culturais, incluindo o Museu de Arte Moderna de São Paulo (MAM) e o Museu Afro Brasil.</p>
+            <img src="parque-ibirapuera.jpg" alt="Parque Ibirapuera">
+        </section>
+
+        <section id="galeria">
+            <h2>Galeria de Fotos</h2>
+            <img src="foto21.jpg alt="Foto 1">
+            <img src="foto2.jpg" alt="Foto 2">
+            <img src="foto3.jpg" alt="Foto 3">
+        </section>
+
+        <section id="como-chegar">
+            <h2>Como Chegar</h2>
+            <p>O Parque Ibirapuera está localizado na região central de São Paulo e é facilmente acessível de carro, ônibus ou metrô. Consulte um mapa ou aplicativo de navegação para obter direções específicas.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2023 ParqueIbirapueraSP.com</p>
+    </footer>
+</body>
+</html>
