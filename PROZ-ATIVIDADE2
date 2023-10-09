@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lugares Turísticos da Europa</title>
+    <link rel="stylesheet" href="estilo.css">
+</head>
+<body>
+    <header>
+        <h1>Lugares Turísticos da Europa</h1>
+        <p>Explore a beleza da Europa</p>
+    </header>
+
+    <section id="destinos">
+        <article class="destino">
+            <img src="paris.jpg" alt="Paris, França">
+            <h2>Paris, França</h2>
+            <p>A Cidade Luz é famosa pela Torre Eiffel, o Louvre e sua rica história cultural.</p>
+            <a href="paris.html">Saiba Mais</a>
+        </article>
+
+        <article class="destino">
+            <img src="roma.jpg" alt="Roma, Itália">
+            <h2>Roma, Itália</h2>
+            <p>Explore as ruínas romanas antigas, o Coliseu e a deliciosa culinária italiana.</p>
+            <a href="roma.html">Saiba Mais</a>
+        </article>
+
+        <article class="destino">
+            <img src="santorini.jpg" alt="Santorini, Grécia">
+            <h2>Santorini, Grécia</h2>
+            <p>Desfrute das praias de areia branca, das vistas deslumbrantes e da arquitetura única.</p>
+            <a href="santorini.html">Saiba Mais</a>
+        </article>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 LugaresTuristicosEuropa.com</p>
+    </footer>
+</body>
+</html>
